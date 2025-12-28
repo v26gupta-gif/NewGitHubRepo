@@ -1,0 +1,5 @@
+Small project description :- Manage multiple versions of a resume using Git
+
+Track changes like skill updates and experience edits
+
+Useful for understanding commit history and rollback
